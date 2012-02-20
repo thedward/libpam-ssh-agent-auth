@@ -1,0 +1,7 @@
+config.guess
+config.sub
+build-stamp
+debian/files
+debian/*.log
+debian/*.substvars
+debian/libpam-ssh-agent-auth
