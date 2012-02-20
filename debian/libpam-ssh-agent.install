@@ -1,1 +1,1 @@
-lib/security/pam_ssh_agent_auth.so
+pam_ssh_agent_auth.so lib/security/
