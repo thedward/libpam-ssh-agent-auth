@@ -6,7 +6,7 @@ Standards-Version: 3.8.0
 Section: libs
 Homepage: http://pamsshagentauth.sf.net/
 
-Package: pam-ssh-agent-auth
+Package: libpam-ssh-agent
 Section: admin
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
