@@ -1,7 +1,15 @@
 config.guess
+config.h
+config.log
+config.status
 config.sub
 build-stamp
 debian/files
 debian/*.log
 debian/*.substvars
-debian/libpam-ssh-agent-auth
+debian/libpam-ssh-agent
+Makefile
+*.a
+*.o
+*.so
+*.8
